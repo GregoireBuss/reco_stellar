@@ -1,4 +1,4 @@
-sudo mkdir -p /.streamlit/
+mkdir streamlit-heroku
 
 echo "\
 [server]\n\
@@ -6,4 +6,4 @@ headless = true\n\
 port = $PORT\n\
 enableCORS = false\n\
 \n\
-" > ~/.streamlit/config.toml
+" > ~/.streamlit-heroku/config.toml
