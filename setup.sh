@@ -6,4 +6,4 @@ headless = true\n\
 port = $PORT\n\
 enableCORS = false\n\
 \n\
-" > ~/.streamlit-heroku/config.toml
+" > ~/streamlit-heroku/config.toml
