@@ -1,4 +1,4 @@
-mkdir streamlit-heroku
+mkdir ~/streamlit-heroku
 
 echo "\
 [server]\n\
